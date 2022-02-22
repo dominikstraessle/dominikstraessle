@@ -31,16 +31,26 @@ I'm a software engineer, currently working at [arcade solutions ag](https://www.
 
 ### My current tech stack
 #### Backend
+<a href="https://go.dev/" target="_blank">
 <img height="48" src="assets/go.svg" alt="go">
+</a>
 
 #### Databases & Storage
-<p>
+<a href="https://www.postgresql.org/" target="_blank">
 <img height="48" src="assets/postgresql.svg" alt="postgresql">
+</a>
+<a href="https://min.io/" target="_blank">
 <img height="48" src="assets/minioio-ar21.svg" alt="minioio">
+</a>
+<a href="https://mariadb.org//" target="_blank">
 <img height="48" src="assets/mariadb.svg" alt="mariadb">
+</a>
+<a href="https://redis.io/" target="_blank">
 <img height="48" src="assets/redis.svg" alt="redis">
+</a>
+<a href="https://www.elastic.co/elasticsearch/" target="_blank">
 <img height="48" src="assets/elastic.svg" alt="elastic">
-</p>
+</a>
 
 #### Frontend
 <p>
@@ -107,7 +117,9 @@ Summarizer is a PWA that allows you so search and inspect saved items such as bo
 - [summarizer-cli](https://gitlab.com/summarizer/summarizer-cli)
 
 <p>
+<a href="https://go.dev/" target="_blank">
 <img height="48" src="assets/go.svg" alt="go">
+</a>
 <img height="48" src="assets/nuxtdotjs.svg" alt="nuxtjs">
 <img height="48" src="assets/vuetify.svg" alt="vuetify">
 </p>
@@ -116,7 +128,9 @@ Summarizer is a PWA that allows you so search and inspect saved items such as bo
 Web-App to record all your beerpong-games and compare your stats with your friends.
 
 <p>
+<a href="https://go.dev/" target="_blank">
 <img height="48" src="assets/go.svg" alt="go">
+</a>
 <img height="48" src="assets/angular.svg" alt="angular">
 <img height="48" src="assets/postgresql.svg" alt="postgres">
 <img height="48" src="assets/openapiinitiative.svg" alt="openapiinitiative">
@@ -128,7 +142,9 @@ Web-App to manage rentable rooms and buildings in your city. Backend is based on
 The Frontend is built with Nuxt.js and Vuetify and the landing page is built with Tailwind.
 
 <p>
+<a href="https://go.dev/" target="_blank">
 <img height="48" src="assets/go.svg" alt="go">
+</a>
 <img height="48" src="assets/vuetify.svg" alt="vuetify">
 <img height="48" src="assets/nuxtdotjs.svg" alt="nuxtjs">
 <img height="48" src="assets/tailwindcss.svg" alt="tailwindcss">
