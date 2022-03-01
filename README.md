@@ -10,7 +10,7 @@
 <img height="48" src="assets/github.svg" alt="github">
 </a>
 
-<a href="https://www.linkedin.com/in/dominik-str%C3%A4ssle-1b5736230/" target="_blank">
+<a href="https://www.linkedin.com/in/dominikstraessle/" target="_blank">
 <img height="48" src="assets/linkedin.svg" alt="linkedin">
 </a>
 
