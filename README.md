@@ -1,4 +1,4 @@
-![Dominiks card](https://cardivo.vercel.app/api?name=Dominik&description=Software%20Engineer&image=https://avatars.githubusercontent.com/u/23583759?v=4&site=https://gitlab.com/dominikstraessle&pattern=topography&colorPattern=%23FF6629&opacity=0.2&fontColor=%23FF6629&github=dominikstraessle&linkedin=dominik-strässle)
+![Dominiks card](https://cardivo.vercel.app/api?name=Dominik&description=Software%20Engineer&image=https://avatars.githubusercontent.com/u/23583759?v=4&pattern=topography&colorPattern=%23FF6629&opacity=0.2&fontColor=%23FF6629&github=dominikstraessle&linkedin=dominikstraessle)
 
 ### Where you can find me
 
@@ -10,7 +10,7 @@
 <img height="48" src="assets/github.svg" alt="github">
 </a>
 
-<a href="https://www.linkedin.com/in/dominik-str%C3%A4ssle-1b5736230/" target="_blank">
+<a href="https://www.linkedin.com/in/dominikstraessle/" target="_blank">
 <img height="48" src="assets/linkedin.svg" alt="linkedin">
 </a>
 
