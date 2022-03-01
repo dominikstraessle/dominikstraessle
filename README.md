@@ -53,45 +53,100 @@ I'm a software engineer, currently working at [arcade solutions ag](https://www.
 </a>
 
 #### Frontend
-<p>
+
+<a href="https://nuxtjs.org/" target="_blank">
 <img height="48" src="assets/nuxtdotjs.svg" alt="nuxtjs">
+</a>
+<a href="https://vuetifyjs.com/en/" target="_blank">
 <img height="48" src="assets/vuetify.svg" alt="vuetify">
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
 <img height="48" src="assets/tailwindcss.svg" alt="tailwindcss">
+</a>
+<a href="https://www.ecma-international.org/technical-committees/tc39/" target="_blank">
 <img height="48" src="assets/javascript.svg" alt="javascript">
+</a>
+<a href="https://webdriver.io/" target="_blank">
 <img height="48" src="assets/webdriverio.svg" alt="webdriverio">
+</a>
+<a href="https://jestjs.io/" target="_blank">
 <img height="48" src="assets/jest.svg" alt="jest">
-</p>
+</a>
 
 #### Tech Tools & Dev-Environment
-<p>
+
+<a href="https://www.docker.com/" target="_blank">
 <img height="48" src="assets/docker.svg" alt="docker">
+</a>
+<a href="https://www.kernel.org/" target="_blank">
 <img height="48" src="assets/linux.svg" alt="linux">
+</a>
+<a href="https://git-scm.com/" target="_blank">
 <img height="48" src="assets/git.svg" alt="git">
+</a>
+<a href="https://www.postman.com/" target="_blank">
 <img height="48" src="assets/postman.svg" alt="postman">
+</a>
+<a href="https://www.openapis.org/" target="_blank">
 <img height="48" src="assets/openapiinitiative.svg" alt="openapiinitiative">
+</a>
+<a href="https://www.jetbrains.com/" target="_blank">
 <img height="48" src="assets/jetbrains.svg" alt="jetbrains">
+</a>
+<a href="https://gitlab.com/" target="_blank">
 <img height="48" src="assets/gitlab.svg" alt="gitlab">
+</a>
+<a href="https://linuxmint.com/" target="_blank">
 <img height="48" src="assets/linuxmint.svg" alt="linuxmint">
+</a>
+<a href="https://www.alpinelinux.org/" target="_blank">
 <img height="48" src="assets/alpinelinux.svg" alt="alpinelinux">
+</a>
+<a href="https://nginx.org/" target="_blank">
 <img height="48" src="assets/nginx.svg" alt="nginx">
+</a>
+<a href="https://letsencrypt.org/" target="_blank">
 <img height="48" src="assets/letsencrypt.svg" alt="letsencrypt">
+</a>
+<a href="https://github.com/dependabot" target="_blank">
 <img height="48" src="assets/dependabot.svg" alt="dependabot">
-</p>
+</a>
 
 #### Other Tools & Services
-<p>
+
+<a href="https://news.ycombinator.com/" target="_blank">
 <img height="48" src="assets/ycombinator.svg" alt="ycombinator">
+</a>
+<a href="https://sentry.io" target="_blank">
 <img height="48" src="assets/sentry.svg" alt="sentry">
+</a>
+<a href="https://www.cloudflare.com/" target="_blank">
 <img height="48" src="assets/cloudflare.svg" alt="cloudflare">
+</a>
+<a href="https://www.scaleway.com/en/" target="_blank">
 <img height="48" src="assets/scaleway.svg" alt="scaleway">
+</a>
+<a href="https://www.digitalocean.com/" target="_blank">
 <img height="48" src="assets/digitalocean.svg" alt="digitalocean">
+</a>
+<a href="https://www.namecheap.com/" target="_blank">
 <img height="48" src="assets/namecheap.svg" alt="namecheap">
+</a>
+<a href="https://github.com/dominikstraessle/" target="_blank">
 <img height="48" src="assets/github.svg" alt="github">
+</a>
+<a href="https://protonmail.com/" target="_blank">
 <img height="48" src="assets/protonmail.svg" alt="protonmail.svg">
+</a>
+<a href="https://nextcloud.com/" target="_blank">
 <img height="48" src="assets/nextcloud.svg" alt="nextcloud.svg">
+</a>
+<a href="https://www.libreoffice.org/" target="_blank">
 <img height="48" src="assets/libreoffice.svg" alt="libreoffice">
+</a>
+<a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">
 <img height="48" src="assets/firefox.svg" alt="firefox">
-</p>
+</a>
 
 #### Tech used before
 <p>
@@ -111,32 +166,44 @@ I'm a software engineer, currently working at [arcade solutions ag](https://www.
 
 ### Personal projects and contributions
 #### [summarizer](https://summarizer.straessle.me/)
+![active](https://img.shields.io/badge/status-active-brightgreen)
+
 Summarizer is a PWA that allows you so search and inspect saved items such as bookmarks, Github-Stars or saved Hacker-News articles.
 
 - [summarizer-frontend](https://gitlab.com/summarizer/summarizer-frontend)  
 - [summarizer-cli](https://gitlab.com/summarizer/summarizer-cli)
 
-<p>
 <a href="https://go.dev/" target="_blank">
 <img height="48" src="assets/go.svg" alt="go">
 </a>
+<a href="https://nuxtjs.org/" target="_blank">
 <img height="48" src="assets/nuxtdotjs.svg" alt="nuxtjs">
+</a>
+<a href="https://vuetifyjs.com/en/" target="_blank">
 <img height="48" src="assets/vuetify.svg" alt="vuetify">
-</p>
+</a>
 
 #### [Beerpong-App](https://beerpong.bar)
+![active](https://img.shields.io/badge/status-active-brightgreen)
+
 Web-App to record all your beerpong-games and compare your stats with your friends.
 
 <p>
 <a href="https://go.dev/" target="_blank">
 <img height="48" src="assets/go.svg" alt="go">
 </a>
-<img height="48" src="assets/angular.svg" alt="angular">
-<img height="48" src="assets/postgresql.svg" alt="postgres">
+<a href="https://www.postgresql.org/" target="_blank">
+<img height="48" src="assets/postgresql.svg" alt="postgresql">
+</a>
+<a href="https://www.openapis.org/" target="_blank">
 <img height="48" src="assets/openapiinitiative.svg" alt="openapiinitiative">
+</a>
+<img height="48" src="assets/angular.svg" alt="angular">
 </p>
 
 #### [rentsy.ch](https://rentsy.ch/)
+![active](https://img.shields.io/badge/status-active-brightgreen)
+
 Web-App to manage rentable rooms and buildings in your city. Backend is based on a microservice architecture and written in Go.
 
 The Frontend is built with Nuxt.js and Vuetify and the landing page is built with Tailwind.
@@ -154,6 +221,8 @@ The Frontend is built with Nuxt.js and Vuetify and the landing page is built wit
 </p>
 
 #### [homelab-dns](https://gitlab.com/dominikstraessle/homelab-dns)
+![active](https://img.shields.io/badge/status-active-brightgreen)
+
 Automatically update Cloudflare DNS records according to a dynamic domain name from an ISP.
 
 <p>
@@ -162,11 +231,15 @@ Automatically update Cloudflare DNS records according to a dynamic domain name f
 </p>
 
 #### [MultiSweeper](https://github.com/Aaronmacaron/MultiSweeper)
+![archived](https://img.shields.io/badge/status-archived-orange)
+
 MultiSweeper is a multiplayer implementation of the popular game MineSweeper.
 
 <img height="48" src="assets/java.svg" alt="go">
 
 #### [formail.dev](https://formail.dev/)
+![archived](https://img.shields.io/badge/status-archived-orange)
+
 API-Backend to validate and forward form data from client-side only websites via email.
 
 <p>
@@ -177,6 +250,8 @@ API-Backend to validate and forward form data from client-side only websites via
 </p>
 
 #### [Pregnancy Calculator for Doctors](https://play.google.com/store/apps/details?id=ch.gibmit.straessle.dominik.schwangerschaftsrechner&hl=en&gl=US)
+![archived](https://img.shields.io/badge/status-archived-orange)
+
 Calculate all important dates for a pregnancy with one single app.
 
 <p>
