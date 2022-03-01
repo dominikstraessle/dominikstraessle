@@ -2,6 +2,10 @@
 
 ### Where you can find me
 
+<a href="https://standardresume.co/r/dominikstraessle" target="_blank">
+<img height="48" src="assets/resume.svg" alt="resume">
+</a>
+
 <a href="https://gitlab.com/dominikstraessle" target="_blank">
 <img height="48" src="assets/gitlab.svg" alt="gitlab">
 </a>
@@ -21,6 +25,7 @@
 <a href="https://news.ycombinator.com/user?id=dominikstr" target="_blank">
 <img height="48" src="assets/ycombinator.svg" alt="ycombinator">
 </a>
+
 
 ### What I do
 I'm a software engineer, currently working at [arcade solutions ag](https://www.arcade.ch/) and studying CS at the [Lucerne University of Applied Sciences](https://www.hslu.ch/en/lucerne-school-of-information-technology/).
@@ -259,3 +264,4 @@ Calculate all important dates for a pregnancy with one single app.
 <img height="48" src="assets/android.svg" alt="android">
 </p>
 
+<img src="assets/wave.svg" alt="wave">
