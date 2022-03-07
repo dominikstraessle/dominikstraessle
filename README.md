@@ -2,7 +2,7 @@
 
 ## Where you can find me
 
-<a href="https://standardresume.co/r/dominikstraessle" target="_blank">
+<a href="https://standardresume.co/r/straessle" target="_blank">
 <img height="48" src="assets/resume.svg" alt="resume">
 </a>
 
