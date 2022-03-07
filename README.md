@@ -192,6 +192,9 @@ Summarizer is a PWA that allows you so search and inspect saved items such as bo
 <img height="48" src="assets/vuetify.svg" alt="vuetify">
 </a>
 
+https://user-images.githubusercontent.com/23583759/157007035-4c135bbe-1be5-4321-a7c4-eeb864e0cda6.mp4
+
+
 #### [Beerpong-App](https://beerpong.bar)
 ![active](https://img.shields.io/badge/status-active-brightgreen)
 
