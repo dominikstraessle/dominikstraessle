@@ -1,6 +1,6 @@
 ![Dominiks card](https://cardivo.vercel.app/api?name=Dominik&description=Software%20Engineer&image=https://avatars.githubusercontent.com/u/23583759?v=4&pattern=topography&colorPattern=%23FF6629&opacity=0.2&fontColor=%23FF6629&github=dominikstraessle&linkedin=dominikstraessle)
 
-### Where you can find me
+## Where you can find me
 
 <a href="https://standardresume.co/r/dominikstraessle" target="_blank">
 <img height="48" src="assets/resume.svg" alt="resume">
@@ -31,20 +31,20 @@
 </a>
 
 
-### What I do
+## What I do
 I'm a software engineer, currently working at [arcade solutions ag](https://www.arcade.ch/) and studying CS at the [Lucerne University of Applied Sciences](https://www.hslu.ch/en/lucerne-school-of-information-technology/).
 
 <p>
 <img height="48" src="assets/arc.svg" alt="arcade solutions ag">
 </p>
 
-### My current tech stack
-#### Backend
+## My current tech stack
+### Backend
 <a href="https://go.dev/" target="_blank">
 <img height="48" src="assets/go.svg" alt="go">
 </a>
 
-#### Databases & Storage
+### Databases & Storage
 <a href="https://www.postgresql.org/" target="_blank">
 <img height="48" src="assets/postgresql.svg" alt="postgresql">
 </a>
@@ -61,7 +61,7 @@ I'm a software engineer, currently working at [arcade solutions ag](https://www.
 <img height="48" src="assets/elastic.svg" alt="elastic">
 </a>
 
-#### Frontend
+### Frontend
 
 <a href="https://nuxtjs.org/" target="_blank">
 <img height="48" src="assets/nuxtdotjs.svg" alt="nuxtjs">
@@ -82,7 +82,111 @@ I'm a software engineer, currently working at [arcade solutions ag](https://www.
 <img height="48" src="assets/jest.svg" alt="jest">
 </a>
 
-#### Tech Tools & Dev-Environment
+
+## Personal projects and contributions
+### [summarizer](https://summarizer.straessle.me/)
+![active](https://img.shields.io/badge/status-active-brightgreen)
+
+Summarizer is a PWA that allows you so search and inspect saved items such as bookmarks, Github-Stars or saved Hacker-News articles.
+
+- [summarizer-frontend](https://gitlab.com/summarizer/summarizer-frontend)  
+- [summarizer-cli](https://gitlab.com/summarizer/summarizer-cli)
+
+<a href="https://go.dev/" target="_blank">
+<img height="48" src="assets/go.svg" alt="go">
+</a>
+<a href="https://nuxtjs.org/" target="_blank">
+<img height="48" src="assets/nuxtdotjs.svg" alt="nuxtjs">
+</a>
+<a href="https://vuetifyjs.com/en/" target="_blank">
+<img height="48" src="assets/vuetify.svg" alt="vuetify">
+</a>
+
+https://user-images.githubusercontent.com/23583759/157007035-4c135bbe-1be5-4321-a7c4-eeb864e0cda6.mp4
+
+
+### [Beerpong-App](https://beerpong.bar)
+![active](https://img.shields.io/badge/status-active-brightgreen)
+
+Web-App to record all your beerpong-games and compare your stats with your friends.
+
+<p>
+<a href="https://go.dev/" target="_blank">
+<img height="48" src="assets/go.svg" alt="go">
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+<img height="48" src="assets/postgresql.svg" alt="postgresql">
+</a>
+<a href="https://www.openapis.org/" target="_blank">
+<img height="48" src="assets/openapiinitiative.svg" alt="openapiinitiative">
+</a>
+<img height="48" src="assets/angular.svg" alt="angular">
+</p>
+
+https://user-images.githubusercontent.com/23583759/156721565-7beeb1ed-a0c4-4289-97ec-74661b477520.mp4
+
+### [rentsy.ch](https://rentsy.ch/)
+![active](https://img.shields.io/badge/status-active-brightgreen)
+
+Web-App to manage rentable rooms and buildings in your city. Backend is based on a microservice architecture and written in Go.
+
+The Frontend is built with Nuxt.js and Vuetify and the landing page is built with Tailwind.
+
+<p>
+<a href="https://go.dev/" target="_blank">
+<img height="48" src="assets/go.svg" alt="go">
+</a>
+<img height="48" src="assets/vuetify.svg" alt="vuetify">
+<img height="48" src="assets/nuxtdotjs.svg" alt="nuxtjs">
+<img height="48" src="assets/tailwindcss.svg" alt="tailwindcss">
+<img height="48" src="assets/digitalocean.svg" alt="digitalocean">
+<img height="48" src="assets/kubernetes.svg" alt="kubernetes">
+<img height="48" src="assets/mariadb.svg" alt="mariadb">
+</p>
+
+### [homelab-dns](https://gitlab.com/dominikstraessle/homelab-dns)
+![active](https://img.shields.io/badge/status-active-brightgreen)
+
+Automatically update Cloudflare DNS records according to a dynamic domain name from an ISP.
+
+<p>
+<img height="48" src="assets/go.svg" alt="go">
+<img height="48" src="assets/cloudflare.svg" alt="cloudflare">
+</p>
+
+### [MultiSweeper](https://github.com/Aaronmacaron/MultiSweeper)
+![archived](https://img.shields.io/badge/status-archived-orange)
+
+MultiSweeper is a multiplayer implementation of the popular game MineSweeper.
+
+<img height="48" src="assets/java.svg" alt="go">
+
+https://user-images.githubusercontent.com/23583759/157011729-983c1111-b74f-439d-bde8-373e23cd8593.mp4
+
+### [formail.dev](https://formail.dev/)
+![archived](https://img.shields.io/badge/status-archived-orange)
+
+API-Backend to validate and forward form data from client-side only websites via email.
+
+<p>
+<img height="48" src="assets/php.svg" alt="php">
+<img height="48" src="assets/laravel.svg" alt="laravel">
+<img height="48" src="assets/bootstrap.svg" alt="bootstrap">
+<img height="48" src="assets/redis.svg" alt="redis">
+</p>
+
+### [Pregnancy Calculator for Doctors](https://play.google.com/store/apps/details?id=ch.gibmit.straessle.dominik.schwangerschaftsrechner&hl=en&gl=US)
+![archived](https://img.shields.io/badge/status-archived-orange)
+
+Calculate all important dates for a pregnancy with one single app.
+
+<p>
+<img height="48" src="assets/java.svg" alt="java">
+<img height="48" src="assets/android.svg" alt="android">
+</p>
+
+## Other Technologies
+### Tech Tools & Dev-Environment
 
 <a href="https://www.docker.com/" target="_blank">
 <img height="48" src="assets/docker.svg" alt="docker">
@@ -121,7 +225,7 @@ I'm a software engineer, currently working at [arcade solutions ag](https://www.
 <img height="48" src="assets/dependabot.svg" alt="dependabot">
 </a>
 
-#### Other Tools & Services
+### Tools & Services
 
 <a href="https://news.ycombinator.com/" target="_blank">
 <img height="48" src="assets/ycombinator.svg" alt="ycombinator">
@@ -157,7 +261,7 @@ I'm a software engineer, currently working at [arcade solutions ag](https://www.
 <img height="48" src="assets/firefox.svg" alt="firefox">
 </a>
 
-#### Tech used before
+### Tech used before
 <p>
 <img height="48" src="assets/php.svg" alt="php">
 <img height="48" src="assets/python.svg" alt="python">
@@ -172,107 +276,3 @@ I'm a software engineer, currently working at [arcade solutions ag](https://www.
 <img height="48" src="assets/android.svg" alt="android">
 <img height="48" src="assets/bootstrap.svg" alt="bootstrap">
 </p>
-
-### Personal projects and contributions
-#### [summarizer](https://summarizer.straessle.me/)
-![active](https://img.shields.io/badge/status-active-brightgreen)
-
-Summarizer is a PWA that allows you so search and inspect saved items such as bookmarks, Github-Stars or saved Hacker-News articles.
-
-- [summarizer-frontend](https://gitlab.com/summarizer/summarizer-frontend)  
-- [summarizer-cli](https://gitlab.com/summarizer/summarizer-cli)
-
-<a href="https://go.dev/" target="_blank">
-<img height="48" src="assets/go.svg" alt="go">
-</a>
-<a href="https://nuxtjs.org/" target="_blank">
-<img height="48" src="assets/nuxtdotjs.svg" alt="nuxtjs">
-</a>
-<a href="https://vuetifyjs.com/en/" target="_blank">
-<img height="48" src="assets/vuetify.svg" alt="vuetify">
-</a>
-
-https://user-images.githubusercontent.com/23583759/157007035-4c135bbe-1be5-4321-a7c4-eeb864e0cda6.mp4
-
-
-#### [Beerpong-App](https://beerpong.bar)
-![active](https://img.shields.io/badge/status-active-brightgreen)
-
-Web-App to record all your beerpong-games and compare your stats with your friends.
-
-<p>
-<a href="https://go.dev/" target="_blank">
-<img height="48" src="assets/go.svg" alt="go">
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-<img height="48" src="assets/postgresql.svg" alt="postgresql">
-</a>
-<a href="https://www.openapis.org/" target="_blank">
-<img height="48" src="assets/openapiinitiative.svg" alt="openapiinitiative">
-</a>
-<img height="48" src="assets/angular.svg" alt="angular">
-</p>
-
-https://user-images.githubusercontent.com/23583759/156721565-7beeb1ed-a0c4-4289-97ec-74661b477520.mp4
-
-#### [rentsy.ch](https://rentsy.ch/)
-![active](https://img.shields.io/badge/status-active-brightgreen)
-
-Web-App to manage rentable rooms and buildings in your city. Backend is based on a microservice architecture and written in Go.
-
-The Frontend is built with Nuxt.js and Vuetify and the landing page is built with Tailwind.
-
-<p>
-<a href="https://go.dev/" target="_blank">
-<img height="48" src="assets/go.svg" alt="go">
-</a>
-<img height="48" src="assets/vuetify.svg" alt="vuetify">
-<img height="48" src="assets/nuxtdotjs.svg" alt="nuxtjs">
-<img height="48" src="assets/tailwindcss.svg" alt="tailwindcss">
-<img height="48" src="assets/digitalocean.svg" alt="digitalocean">
-<img height="48" src="assets/kubernetes.svg" alt="kubernetes">
-<img height="48" src="assets/mariadb.svg" alt="mariadb">
-</p>
-
-#### [homelab-dns](https://gitlab.com/dominikstraessle/homelab-dns)
-![active](https://img.shields.io/badge/status-active-brightgreen)
-
-Automatically update Cloudflare DNS records according to a dynamic domain name from an ISP.
-
-<p>
-<img height="48" src="assets/go.svg" alt="go">
-<img height="48" src="assets/cloudflare.svg" alt="cloudflare">
-</p>
-
-#### [MultiSweeper](https://github.com/Aaronmacaron/MultiSweeper)
-![archived](https://img.shields.io/badge/status-archived-orange)
-
-MultiSweeper is a multiplayer implementation of the popular game MineSweeper.
-
-<img height="48" src="assets/java.svg" alt="go">
-
-https://user-images.githubusercontent.com/23583759/157011729-983c1111-b74f-439d-bde8-373e23cd8593.mp4
-
-#### [formail.dev](https://formail.dev/)
-![archived](https://img.shields.io/badge/status-archived-orange)
-
-API-Backend to validate and forward form data from client-side only websites via email.
-
-<p>
-<img height="48" src="assets/php.svg" alt="php">
-<img height="48" src="assets/laravel.svg" alt="laravel">
-<img height="48" src="assets/bootstrap.svg" alt="bootstrap">
-<img height="48" src="assets/redis.svg" alt="redis">
-</p>
-
-#### [Pregnancy Calculator for Doctors](https://play.google.com/store/apps/details?id=ch.gibmit.straessle.dominik.schwangerschaftsrechner&hl=en&gl=US)
-![archived](https://img.shields.io/badge/status-archived-orange)
-
-Calculate all important dates for a pregnancy with one single app.
-
-<p>
-<img height="48" src="assets/java.svg" alt="java">
-<img height="48" src="assets/android.svg" alt="android">
-</p>
-
-<img src="assets/wave.svg" alt="wave">
