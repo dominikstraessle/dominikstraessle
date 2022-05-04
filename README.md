@@ -163,7 +163,7 @@ MultiSweeper is a multiplayer implementation of the popular game MineSweeper.
 
 https://user-images.githubusercontent.com/23583759/157011729-983c1111-b74f-439d-bde8-373e23cd8593.mp4
 
-### [formail.dev](https://formail.dev/)
+### [formail](https://gitlab.com/aakado/formail)
 ![archived](https://img.shields.io/badge/status-archived-orange)
 
 API-Backend to validate and forward form data from client-side only websites via email.
