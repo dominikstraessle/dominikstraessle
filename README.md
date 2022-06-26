@@ -80,6 +80,14 @@ I'm a software engineer, currently studying CS at the [Lucerne University of App
 
 
 ## Personal projects and contributions
+
+### [Algorithms & Data structures in Go](https://github.com/dominikstraessle/hslu-ad-golang)
+![active](https://img.shields.io/badge/status-active-brightgreen)
+
+
+Although all exercises from the Algorithms & Data structures course of the Lucerne University of Applied Sciences had to be implemented in Java, I completed most of them additionally in Go to gain more proficiency in the language.
+
+
 ### [summarizer](https://summarizer.straessle.me/)
 ![active](https://img.shields.io/badge/status-active-brightgreen)
 
